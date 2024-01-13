@@ -1,0 +1,95 @@
+body{
+  background-color: #3256a8;
+}
+.screen{
+  background-color: rgb(255,255,2550,0.5);
+  height: 300px;
+  width: 700px;
+  border-style: solid;
+  border-radius: 8px;
+  border-color: black;
+  border-width: 10px;
+  text-align: left;
+}
+
+#textDisplay{
+  background-color: transparent;
+  border-color: transparent;
+  width: 695px;
+  height: 295px;
+  font-size: 20px;
+}
+
+#thinupThing, #oneKey, #twoKey, #threeKey, #fourKey, #fiveKey, #sixKey, #sevenKey, #eightKey, #nineKey, #zeroKey, #minusKey, #equalKey{
+  width: 0px;
+  height: 0px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  border-radius: 10px;
+  border-color: black;
+  display: inline;
+}
+
+#qKey, #wKey, #eKey, #rKey, #tKey, #yKey, #uKey, #iKey, #oKey, #pKey, #backDash{
+  width: 0px;
+  height: 0px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  border-radius: 10px;
+  border-color: black;
+  display: inline;
+}
+
+#aKey, #sKey, #dKey, #fKey, #gKey, #hKey, #jKey, #kKey, #lKey, #cemicolen, #topthingy, #enterKey,#leftBracketKey, #rightBracketKey{
+  width: 0px;
+  height: 0px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  border-radius: 10px;
+  border-color: black;
+  display: inline;
+}
+#spaceBar, #altLKey, #ctrlLKey, #altRKey, #ctrlRKey{
+  width: 0px;
+  height: 0px;
+  background-color: black;
+  color: white;
+  text-align: left;
+  border-radius: 10px;
+  border-color: black;
+  display: inline;
+}
+
+#shiftLKey, #tabKey, #zKey, #xKey, #cKey, #vKey, #bKey, #nKey, #mKey, #lowthingyKey, #periodKey, #dashKey, #shiftRKey, #backSpace, #capsLock{
+  width: 0px;
+  height: 0px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  border-radius: 10px;
+  border-color: black;
+  display: inline;
+}
+
+#head{
+  background-image: url('https://www.bing.com/th?id=OIP.E_nCrVk_nlAjgqFU1aBPBQHaHa&w=206&h=206&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2');
+  color: white;
+  border-style: solid;
+  border-radius: 32px;
+  border-width: 14px;
+  border-color: darkblue;
+  width: 200px;
+}
+
+.keyBoard{
+  background-color: #383838;
+  width: 850px;
+  border-radius: 32px;
+  border-color: black;
+  border-style: solid;
+}
+
+
